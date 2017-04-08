@@ -6,4 +6,4 @@ Cs50 pset8 exercise, but written from scratch as an exercise.
 
 ## Important
 Register for a free google maps api key [here](https://developers.google.com/maps/documentation/javascript/get-api-key) and 
-use it in 'index.html'
+use it in 'templates/index.html'
